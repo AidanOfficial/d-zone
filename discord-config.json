@@ -1,7 +1,12 @@
 {
-  "url": "https://github.com/vegeta897/d-zone",
-  "infoCommand": "!d-zone",
+  "url": "https://aidanable-d-zone.herokuapp.com/",
+  "infoCommand": "!dzone",
   "autoPopulate": true,
   "servers": [
+    {
+      "id": "1001251820712235088",
+      "default": true,
+      "ignoreChannels": []
+    }
   ]
 }
